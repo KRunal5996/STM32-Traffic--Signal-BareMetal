@@ -1,3 +1,14 @@
+
+
+https://github.com/user-attachments/assets/c9c6968a-83e1-4d15-9b01-bccbdde65f35
+
+
+
+
+
+
+
+
 # STM32 Traffic Signal Project
 
 This project controls a traffic signal using STM32F4 bare-metal register-level programming.
